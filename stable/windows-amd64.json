@@ -1,20 +1,20 @@
 {
   "schemaVersion": 1,
-  "release": "0.2.4",
-  "publishedAt": "2026-08-02T04:49:53Z",
+  "release": "0.2.5",
+  "publishedAt": "2026-08-02T05:24:29Z",
   "os": "windows",
   "arch": "amd64",
-  "minLauncherVersion": "0.2.4",
+  "minLauncherVersion": "0.2.5",
   "components": [
     {
       "id": "here-client-manager",
-      "version": "0.2.4",
+      "version": "0.2.5",
       "source": {
         "kind": "feed-target",
-        "target": "releases/0.2.4/windows-amd64/here-client-manager.zip"
+        "target": "releases/0.2.5/windows-amd64/here-client-manager.zip"
       },
-      "sha256": "3bd828954f2c311f3d9e9ebc8c2159f75ed8405bc486b6b090aaac89365b46ed",
-      "size": 7802998,
+      "sha256": "fe94697a600f2390551670f0f631c617a77a349b8c3ae57bfc14646121974d4d",
+      "size": 7803002,
       "archive": "zip",
       "license": {
         "spdx": "LicenseRef-Project-Here",
@@ -23,13 +23,13 @@
     },
     {
       "id": "here-client",
-      "version": "0.2.4",
+      "version": "0.2.5",
       "source": {
         "kind": "feed-target",
-        "target": "releases/0.2.4/windows-amd64/here-client.zip"
+        "target": "releases/0.2.5/windows-amd64/here-client.zip"
       },
-      "sha256": "7781536e31f9e3ffa2796a9b14d28fd7bdf43929ce8732a5a350b2a815bda0c9",
-      "size": 12243807,
+      "sha256": "2c5444e4975b57fde7c8bb6f9ec9d4de7aa6af9986b2181ad53a44d0ff9976c3",
+      "size": 12243806,
       "archive": "zip",
       "license": {
         "spdx": "LicenseRef-Project-Here",
@@ -38,12 +38,12 @@
     },
     {
       "id": "here-web-preview",
-      "version": "0.2.4",
+      "version": "0.2.5",
       "source": {
         "kind": "feed-target",
-        "target": "releases/0.2.4/windows-amd64/here-web-preview.exe"
+        "target": "releases/0.2.5/windows-amd64/here-web-preview.exe"
       },
-      "sha256": "dde8d38bbfbb5e4c0d7ba1aac54415a5c1e4933c6318fc70e79b1428e2a58b5f",
+      "sha256": "8a9a7b031e6c318cd7693bb211116ea3a30558a5e5ba806da68b59a3b2a5742a",
       "size": 11512320,
       "archive": "file",
       "fileName": "here-web-preview.exe",
