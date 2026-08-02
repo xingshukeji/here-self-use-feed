@@ -1,20 +1,20 @@
 {
   "schemaVersion": 1,
-  "release": "0.2.6",
-  "publishedAt": "2026-08-02T05:42:08Z",
+  "release": "0.2.7",
+  "publishedAt": "2026-08-02T05:56:28Z",
   "os": "windows",
   "arch": "amd64",
-  "minLauncherVersion": "0.2.6",
+  "minLauncherVersion": "0.2.7",
   "components": [
     {
       "id": "here-client-manager",
-      "version": "0.2.6",
+      "version": "0.2.7",
       "source": {
         "kind": "feed-target",
-        "target": "releases/0.2.6/windows-amd64/here-client-manager.zip"
+        "target": "releases/0.2.7/windows-amd64/here-client-manager.zip"
       },
-      "sha256": "f99c39e83bd2ecce87b4867d5993d2b1c125215e278e94b7cfa7ec5696a899c6",
-      "size": 7803003,
+      "sha256": "b2780c37084ac71ef0d5562da44352cb3dd7cd37e0b0a3c17f6786479a124960",
+      "size": 7803001,
       "archive": "zip",
       "license": {
         "spdx": "LicenseRef-Project-Here",
@@ -23,12 +23,12 @@
     },
     {
       "id": "here-client",
-      "version": "0.2.6",
+      "version": "0.2.7",
       "source": {
         "kind": "feed-target",
-        "target": "releases/0.2.6/windows-amd64/here-client.zip"
+        "target": "releases/0.2.7/windows-amd64/here-client.zip"
       },
-      "sha256": "bce35116d1e569c4c62974fb48d52cf4c165cf5985d426b0ec29a7aca9c795bd",
+      "sha256": "3876e8e5c079bbacddf36dc5ba80e27f12614fb75e04184369841fc384f13d17",
       "size": 12243805,
       "archive": "zip",
       "license": {
@@ -38,12 +38,12 @@
     },
     {
       "id": "here-web-preview",
-      "version": "0.2.6",
+      "version": "0.2.7",
       "source": {
         "kind": "feed-target",
-        "target": "releases/0.2.6/windows-amd64/here-web-preview.exe"
+        "target": "releases/0.2.7/windows-amd64/here-web-preview.exe"
       },
-      "sha256": "64bd95c69a0ec8bd697c61023f82f40cc3da844444bd11b1b524c1e2fdb5c2b6",
+      "sha256": "3d58e5b7af2b8a7cb515e6da44116ab8cb7a352d7e6df5d2ae3e51533cfc87b1",
       "size": 11512320,
       "archive": "file",
       "fileName": "here-web-preview.exe",
